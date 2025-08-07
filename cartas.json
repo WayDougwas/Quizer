@@ -71,20 +71,6 @@
   },
   {
     "id": 6,
-    "texto": "Vendedor atende pessoas brancas primeiro, ignorando clientes negros",
-    "respostas": {
-      "educar": "Você explicou para o vendedor o impacto dessa atitude.",
-      "denunciar": "Você registrou uma reclamação formal na loja.",
-      "ignorar": "Clientes continuam sendo tratados de forma desigual."
-    },
-    "pontuacoes": {
-      "educar": 3,
-      "denunciar": 5,
-      "ignorar": -5
-    }
-  },
-  {
-    "id": 7,
     "texto": "Uma criança negra é chamada de 'exótica' por colegas e professores",
     "respostas": {
       "educar": "Você explicou por que isso é racismo disfarçado.",
@@ -98,7 +84,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 7,
     "texto": "Funcionário negro é confundido com ladrão no local de trabalho",
     "respostas": {
       "educar": "Você apontou o racismo estrutural envolvido nessa suposição.",
@@ -112,21 +98,7 @@
     }
   },
   {
-    "id": 9,
-    "texto": "Programa de TV retrata pessoas negras de forma estereotipada",
-    "respostas": {
-      "educar": "Você iniciou um debate nas redes sociais sobre representatividade.",
-      "denunciar": "Você denunciou o conteúdo aos órgãos competentes.",
-      "ignorar": "O programa continua reforçando estereótipos."
-    },
-    "pontuacoes": {
-      "educar": 4,
-      "denunciar": 5,
-      "ignorar": -5
-    }
-  },
-  {
-    "id": 10,
+    "id": 8,
     "texto": "Colega de trabalho faz piadas sobre o cabelo de pessoas negras",
     "respostas": {
       "educar": "Você explicou por que esse tipo de comentário é ofensivo.",
@@ -140,7 +112,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 9,
     "texto": "Pessoa branca assume que negro entrou em uma faculdade por cotas",
     "respostas": {
       "educar": "Você explicou a importância da igualdade de oportunidades.",
@@ -154,21 +126,7 @@
     }
   },
   {
-    "id": 12,
-    "texto": "Pessoa negra é excluída de grupo social por preconceito",
-    "respostas": {
-      "educar": "Você conversou com o grupo para promover inclusão.",
-      "denunciar": "Você levou o caso para a mediação social.",
-      "ignorar": "A exclusão prejudicou o convívio social."
-    },
-    "pontuacoes": {
-      "educar": 3,
-      "denunciar": 5,
-      "ignorar": -6
-    }
-  },
-  {
-    "id": 13,
+    "id": 10,
     "texto": "Celebridade faz comentário racista em público",
     "respostas": {
       "educar": "Você usou a rede social para conscientizar seus seguidores.",
@@ -182,21 +140,7 @@
     }
   },
   {
-    "id": 14,
-    "texto": "Empresa usa imagem estereotipada de pessoas negras em propaganda",
-    "respostas": {
-      "educar": "Você enviou um feedback construtivo à empresa.",
-      "denunciar": "Você acionou órgãos reguladores de publicidade.",
-      "ignorar": "A propaganda continuou no ar."
-    },
-    "pontuacoes": {
-      "educar": 3,
-      "denunciar": 6,
-      "ignorar": -7
-    }
-  },
-  {
-    "id": 15,
+    "id": 11,
     "texto": "Amigo faz comentário dizendo que 'não vê cor'",
     "respostas": {
       "educar": "Você explicou a importância de reconhecer as diferenças.",
@@ -210,49 +154,7 @@
     }
   },
   {
-    "id": 16,
-    "texto": "Você presencia uma discussão acalorada sobre racismo, mas ninguém te pede para intervir",
-    "respostas": {
-      "educar": "Você tenta intervir para esclarecer pontos, mas alguns ficam resistentes.",
-      "denunciar": "Você evita se envolver para não piorar o clima.",
-      "ignorar": "Você decide não se meter, pois não foi chamado."
-    },
-    "pontuacoes": {
-      "educar": 2,
-      "denunciar": 0,
-      "ignorar": -1
-    }
-  },
-  {
-    "id": 17,
-    "texto": "Um amigo próximo faz um comentário preconceituoso, mas pede para não contar para ninguém",
-    "respostas": {
-      "educar": "Você conversa com ele em particular para ajudar a mudar a visão.",
-      "denunciar": "Você conta para outras pessoas para evitar que isso se repita.",
-      "ignorar": "Você decide manter segredo para preservar a amizade."
-    },
-    "pontuacoes": {
-      "educar": 3,
-      "denunciar": -2,
-      "ignorar": 0
-    }
-  },
-  {
-    "id": 18,
-    "texto": "Na empresa, o RH diz que só pode agir se a vítima formalizar a denúncia",
-    "respostas": {
-      "educar": "Você incentiva a vítima a se posicionar, mas ela tem medo.",
-      "denunciar": "Você faz a denúncia mesmo sem o consentimento da vítima.",
-      "ignorar": "Você acha melhor não se envolver para não criar problemas."
-    },
-    "pontuacoes": {
-      "educar": 3,
-      "denunciar": -3,
-      "ignorar": -2
-    }
-  },
-  {
-    "id": 19,
+    "id": 12,
     "texto": "Você vê um meme racista sendo compartilhado por colegas, mas também engraçado para muitos",
     "respostas": {
       "educar": "Você explica o impacto negativo do meme, mas recebe resistência.",
@@ -266,7 +168,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 13,
     "texto": "Um conhecido diz que o racismo não existe mais e que 'fazer dessas coisas um problema' só atrapalha",
     "respostas": {
       "educar": "Você tenta mostrar dados e relatos para abrir a mente dele.",
@@ -280,49 +182,21 @@
     }
   },
   {
-    "id": 21,
-    "texto": "Você ouve um comentário racista em uma festa, mas a pessoa parece estar bêbada",
+    "id": 14,
+    "texto": "Um amigo próximo faz um comentário preconceituoso, mas pede para não contar para ninguém",
     "respostas": {
-      "educar": "Você tenta conversar depois para explicar o impacto, mesmo com a desculpa da bebida.",
-      "denunciar": "Você evita denunciar por entender que pode não ser sério.",
-      "ignorar": "Decide deixar passar para evitar constrangimentos."
+      "educar": "Você conversa com ele em particular para ajudar a mudar a visão.",
+      "denunciar": "Você conta para outras pessoas para evitar que isso se repita.",
+      "ignorar": "Você decide manter segredo para preservar a amizade."
     },
     "pontuacoes": {
-      "educar": 2,
-      "denunciar": 1,
-      "ignorar": -2
+      "educar": 3,
+      "denunciar": -2,
+      "ignorar": 0
     }
   },
   {
-    "id": 22,
-    "texto": "Você vê uma piada racista numa conversa de grupo, mas sabe que a maioria ali não tem intenção maldosa",
-    "respostas": {
-      "educar": "Você aponta o problema e tenta abrir um diálogo.",
-      "denunciar": "Você expõe o grupo, causando desconforto coletivo.",
-      "ignorar": "Decide não se envolver para manter a paz."
-    },
-    "pontuacoes": {
-      "educar": 2,
-      "denunciar": 1,
-      "ignorar": -1
-    }
-  },
-  {
-    "id": 23,
-    "texto": "Um colega negro faz uma piada autodepreciativa sobre sua raça",
-    "respostas": {
-      "educar": "Você conversa sobre os impactos negativos dessas piadas.",
-      "denunciar": "Você acha que não deve denunciar porque é auto-piada.",
-      "ignorar": "Decide respeitar o jeito dele e não se meter."
-    },
-    "pontuacoes": {
-      "educar": 2,
-      "denunciar": 0,
-      "ignorar": -1
-    }
-  },
-  {
-    "id": 24,
+    "id": 15,
     "texto": "Você recebe uma mensagem ofensiva, mas a pessoa pede desculpas depois e diz que não quis ofender",
     "respostas": {
       "educar": "Você aceita a desculpa, mas conversa para evitar repetição.",
@@ -333,20 +207,6 @@
       "educar": 3,
       "denunciar": 1,
       "ignorar": -1
-    }
-  },
-  {
-    "id": 25,
-    "texto": "Alguém diz que racismo ‘existe só na cabeça das pessoas’",
-    "respostas": {
-      "educar": "Você tenta explicar fatos históricos e sociais para a pessoa.",
-      "denunciar": "Você ignora o comentário para evitar conflito.",
-      "ignorar": "Você concorda só para manter a relação."
-    },
-    "pontuacoes": {
-      "educar": 2,
-      "denunciar": 0,
-      "ignorar": -2
     }
   }
 ]
