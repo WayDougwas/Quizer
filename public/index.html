@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jogo Antirracismo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- TELA INICIAL -->
+  <section id="tela-inicial" class="tela ativa">
+    <h1>Desafios Antirracistas</h1>
+    <button id="btn-iniciar">Começar</button>
+  </section>
+
+  <!-- TELA DO JOGO -->
+  <section id="tela-jogo" class="tela">
+    <div id="card-counter">Cartas restantes: 0</div>
+    <div id="card-container"></div>
+    <div id="card-placeholder" class="card-placeholder" style="display: none;"></div>
+
+    <div id="drop-areas">
+      <div class="drop-area" data-acao="educar">📚 Educar</div>
+      <div class="drop-area" data-acao="denunciar">🗣️ Denunciar</div>
+      <div class="drop-area" data-acao="ignorar">💤 Ignorar</div>
+    </div>
+
+    <div id="resultado"></div>
+  </section>
+
+  <!-- TELA FINAL -->
+  <section id="tela-final" class="tela">
+    <h2>Parabéns!</h2>
+    <p>Sua pontuação final foi:</p>
+    <p id="pontuacao-final" class="pontuacao"></p>
+    <div id="feedback-ia" style="margin-top: 20px; font-weight: bold; font-size: 1.1em;"></div>
+    <button id="btn-reiniciar">Jogar novamente</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
