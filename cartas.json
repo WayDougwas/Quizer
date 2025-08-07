@@ -122,7 +122,7 @@
     "pontuacoes": {
       "educar": 5,
       "denunciar": 3,
-      "ignorar": -4
+      "ignoreduca": 0
     }
   },
   {
@@ -150,7 +150,7 @@
     "pontuacoes": {
       "educar": 5,
       "denunciar": 2,
-      "ignorar": -3
+      "ignorar": -1
     }
   },
   {
@@ -163,8 +163,8 @@
     },
     "pontuacoes": {
       "educar": 2,
-      "denunciar": 1,
-      "ignorar": -1
+      "denunciar": -2,
+      "ignorar": 0
     }
   },
   {
@@ -205,8 +205,8 @@
     },
     "pontuacoes": {
       "educar": 3,
-      "denunciar": 1,
-      "ignorar": -1
+      "denunciar": -3,
+      "ignorar": 2
     }
   }
 ]
